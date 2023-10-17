@@ -37,7 +37,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![MacOs]([https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0))&nbsp;
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windowns](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 &nbsp;
