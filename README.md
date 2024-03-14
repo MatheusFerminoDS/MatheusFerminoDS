@@ -1,5 +1,5 @@
 
-<p align="center">Meu passa tempo é me desafiar com tecnologia. <br><br>  Cientista de Dados🧑‍💻 - 3/4.<br><br> Estudante de Engenharia de software ⚙</p>&nbsp;
+<p align="center">Meu passa tempo é me desafiar com tecnologia. <br><br>  Cientista de Dados🧑‍💻 .<br><br> Estudante de Engenharia de software 3/4 ⚙</p>&nbsp;
 
  </div>
  
